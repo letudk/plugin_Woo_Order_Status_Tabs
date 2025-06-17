@@ -1,2 +1,2 @@
-# plugin_Woo_Order_Status_Tabs
+# Plugin Woo Order Status Tracking
 Plugin hiển thị quá trình đơn hàng
